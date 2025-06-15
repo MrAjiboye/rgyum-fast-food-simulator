@@ -68,6 +68,11 @@ There are now 5.0 Big Mac left.
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Future Improvements
+- Add a graphical user interface using Tkinter or PyQt.
+- Support multiple items in a single purchase.
+- Save inventory changes to a local CSV file.
+
 ## Acknowledgments
 - Developed for CMM202 coursework.
 - Thanks to the course instructors for providing the dataset and requirements.
